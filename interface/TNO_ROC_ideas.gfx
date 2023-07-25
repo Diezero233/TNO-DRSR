@@ -1,0 +1,22 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_ROC_restore_the_chaos"
+		texturefile = "gfx/interface/ideas/ROC/idea_ROC_restore_the_chaos.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ROC_agricultural_tax"
+		texturefile = "gfx/interface/ideas/ROC/idea_ROC_agricultural_tax.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ROC_Decadent_civilian_enterprises"
+		texturefile = "gfx/interface/ideas/ROC/idea_ROC_Decadent_civilian_enterprises.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ROC_Five_major_constructions"
+		texturefile = "gfx/interface/ideas/ROC/idea_ROC_Five_major_constructions.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ROC_The_early_days_of_military_reform"
+		texturefile = "gfx/interface/ideas/ROC/idea_ROC_The_early_days_of_military_reform.dds"
+	}
+}
