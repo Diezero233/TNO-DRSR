@@ -1,0 +1,26 @@
+state={
+	id=2015
+	name="STATE_2015"
+	
+	history={
+		owner = ENG
+		victory_points = { 3501 1 }
+		buildings = {
+			infrastructure = 5
+			air_base = 6
+			3501 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = ENG
+		add_core_of = FEN
+
+	}
+
+	provinces={
+		3501 13070
+	}
+	manpower=1216581
+	buildings_max_level_factor=1.000
+	state_category=town
+}
