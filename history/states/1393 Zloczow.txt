@@ -1,0 +1,19 @@
+state = {
+	id = 1393
+	name = "STATE_1393"
+	
+	manpower = 321230
+	state_category = pastoral
+	
+	history = {
+		owner = GGN
+		add_core_of = GGN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		9454
+	}
+}
