@@ -1,0 +1,23 @@
+#POP DONE
+state={
+	id=409
+	name="STATE_409"
+	history={
+		owner = MAN
+		add_core_of = SOR
+		victory_points = { 12189 10 }
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+		}
+		set_resistance = 0
+		set_compliance = 100
+	}
+
+	provinces={
+		12189 
+	}
+	manpower=349655
+	buildings_max_level_factor=1.000
+	state_category=city
+}

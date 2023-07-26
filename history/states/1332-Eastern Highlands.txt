@@ -1,0 +1,18 @@
+state={
+	id=1332
+	name="STATE_1332"
+
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+
+	provinces={
+		2129 5135 10954 11004 11018 12428 12931 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

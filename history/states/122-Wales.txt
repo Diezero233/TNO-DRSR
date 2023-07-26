@@ -1,0 +1,32 @@
+state= {
+	id=122
+	name="STATE_122"
+	manpower = 1600555
+
+	state_category = large_town
+
+	resources={
+		steel=10
+		power = 3
+	}
+
+	history = {
+		owner = WAL
+		victory_points = { 377 10 }
+		victory_points = { 407 5 }
+		buildings = {
+			offices = 1
+			infrastructure = 5
+			radar_station = 1
+			air_base = 3
+			377 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = WAL
+	}
+
+	provinces= {
+		407 377 16337
+	}
+}
