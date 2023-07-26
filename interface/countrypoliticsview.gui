@@ -425,7 +425,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "national_spirit"
-			position = { x = 180 y = 147 }
+			position = { x = 180 y = 148 }
 			size = { width = 360 height = 104 }
 			clipping = no
 
