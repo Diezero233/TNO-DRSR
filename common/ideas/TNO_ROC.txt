@@ -1,0 +1,53 @@
+ideas = {
+    
+	country = {
+		
+		ROC_restore_the_chaos = {
+			
+			picture = ROC_restore_the_chaos
+			
+
+		}
+
+	}
+	country = {
+		
+		ROC_agricultural_tax = {
+			
+			picture = ROC_agricultural_tax
+			
+
+		}
+
+	}
+	country = {
+		
+		ROC_Decadent_civilian_enterprises = {
+			
+			picture = ROC_Decadent_civilian_enterprises
+			
+
+		}
+
+	}
+	country = {
+		
+		ROC_Five_major_constructions = {
+			
+			picture = ROC_Five_major_constructions
+			
+
+		}
+
+	}
+	country = {
+		
+		ROC_The_early_days_of_military_reform = {
+			
+			picture = ROC_The_early_days_of_military_reform
+			
+
+		}
+
+	}
+}
