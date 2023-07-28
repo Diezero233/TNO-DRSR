@@ -29,6 +29,7 @@ bitmapfonts = {
 			"gfx/fonts/fhdzt_16_0"
             "gfx/fonts/fhdzt_16_1"
             "gfx/fonts/fzrzhm_16_outline"
+			"gfx/fonts/aldrich_18_outline"
         }
 		languages = { "l_simp_chinese" } 
     }
