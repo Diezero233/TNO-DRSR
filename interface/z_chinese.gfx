@@ -26,7 +26,8 @@ bitmapfonts = {
 	bitmapfont_override = {
         name = "aldrich_18_outline"
         fontfiles = {
-            "gfx/fonts/regular_xsz_outline"
+			"gfx/fonts/fhdzt_16_0"
+            "gfx/fonts/fhdzt_16_1"
             "gfx/fonts/fzrzhm_16_outline"
         }
 		languages = { "l_simp_chinese" } 
