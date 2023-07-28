@@ -1,0 +1,35 @@
+bitmapfonts = {
+
+	bitmapfont = {
+		name = "tahoma_60"
+		fontfiles = {
+            "gfx/fonts/eng_mapfont"
+			"gfx/fonts/chinese_mapfont_0"
+			"gfx/fonts/chinese_mapfont_1"
+			"gfx/fonts/chinese_mapfont_2"
+			"gfx/fonts/chinese_mapfont_3"
+			"gfx/fonts/chinese_mapfont_4"
+			"gfx/fonts/chinese_mapfont_5"
+			"gfx/fonts/chinese_mapfont_6"
+        }
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 203 35 }
+			T = { 255 255 255 }
+		}
+	}
+
+	bitmapfont_override = {
+        name = "aldrich_18_outline"
+        fontfiles = {
+            "gfx/fonts/regular_xsz_outline"
+            "gfx/fonts/fzrzhm_16_outline"
+        }
+		languages = { "l_simp_chinese" } 
+    }
+	
+}
