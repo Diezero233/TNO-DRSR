@@ -211,7 +211,7 @@ guiTypes = {
 			iconType ={
 				name ="pol_view_bg"
 				spriteType = "GFX_pol_piechart_overlay_63x63"
-				position = { x = -1 y = -5 }
+				position = { x = -1 y = -5000 }
 				alwaystransparent = yes
 			}
 		}
@@ -235,7 +235,7 @@ guiTypes = {
 				name = "ideology"
 				#position = { x = 362 y = -110 }
 				position = { x = -3620 y = -110 }
-				font = "aldrich_20_outline"
+				font = "aldrich_18_outline"
 				text = "ideology"
 				maxWidth = 160
 				maxHeight = 20
@@ -478,7 +478,7 @@ guiTypes = {
 		instantTextboxType = {
 			name = "leader_name"
 			position = { x = 10 y = 273 }
-			font = "regular18_0"
+			font = "aldrich_18_outline"
 			text = "leader_name"
 			maxWidth = 155
 			maxHeight = 20
@@ -567,7 +567,7 @@ guiTypes = {
 			instantTextboxType = {
 				name = "title"
 				position = { x = 120 y = 38 }
-				font = "aldrich_22_outline"
+				font = "aldrich_18_outline"
 				text = "POLITICS_ACTIVE_GOAL"
 				maxWidth = 218
 				maxHeight = 20
@@ -767,7 +767,7 @@ guiTypes = {
 		instantTextboxType = {
 			name = "name"
 			position = { x = 0 y = 13 }
-			font = "Bomb_16"
+			font = "aldrich_18_outline"
 			text = "Government"
 			maxWidth = 300
 			maxHeight = 20
