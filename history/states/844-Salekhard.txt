@@ -9,14 +9,14 @@ state={
 	 4669 8461 13358 1684 1664 7768
 	}
 	history={
-		owner = YGR
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			offices = 1
 		}
 		victory_points = { 4669 3 }
 		victory_points = { 1684 5 }
-		add_core_of = YGR
+		add_core_of = RSA
 		add_extra_state_shared_building_slots = 1
 	}
 	manpower=38000

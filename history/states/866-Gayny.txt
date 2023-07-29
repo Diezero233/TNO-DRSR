@@ -9,12 +9,12 @@ state={
 		4314 4802 11195 12175 12587 
 	}
 	history={
-		owner = GAY
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = { 12175 3 }
-		add_core_of = GAY
+		add_core_of = RSA
 	}
 	manpower=31300
 	state_category=pastoral

@@ -3,7 +3,7 @@ state={
 	name = "STATE_886"
 
 	history={
-		owner = AMR
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			air_base = 1
@@ -12,7 +12,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = AMR
+		add_core_of = RSA
 		
 		victory_points = { 1772 5 }
 		

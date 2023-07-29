@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = URL
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			thermoelectric_plant = 1
@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			4265 3 
 		}
-		add_core_of = URL
+		add_core_of = RSA
 
 	}
 

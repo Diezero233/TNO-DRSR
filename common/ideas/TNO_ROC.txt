@@ -5,6 +5,11 @@ ideas = {
 		ROC_restore_the_chaos = {
 			
 			picture = ROC_restore_the_chaos
+
+			modifier = {
+				stability_factor = 0.2
+				political_power_gain = -0.1
+			}
 			
 
 		}
@@ -15,6 +20,12 @@ ideas = {
 		ROC_agricultural_tax = {
 			
 			picture = ROC_agricultural_tax
+
+			modifier = {
+				stability_factor = -0.1
+				GDP_growth_modifier = 0.01
+				taxable_population_factor = 0.05
+			}
 			
 
 		}
@@ -25,6 +36,12 @@ ideas = {
 		ROC_Decadent_civilian_enterprises = {
 			
 			picture = ROC_Decadent_civilian_enterprises
+
+			modifier = {
+				production_factory_efficiency_gain_factor = -0.1
+				state_GDP_contribution_to_total_state_GDP_modifier = -0.05
+				consumer_goods_factor = -0.1
+			}
 			
 
 		}
@@ -35,6 +52,14 @@ ideas = {
 		ROC_Five_major_constructions = {
 			
 			picture = ROC_Five_major_constructions
+
+			modifier = {
+				production_speed_schools_factor = 0.1
+				production_speed_offices_factor = 0.05
+				production_speed_infrastructure_factor = 0.15
+				production_speed_thermoelectric_plant_factor = 0.1
+				production_speed_railway_factor = 0.1
+			}
 			
 
 		}
@@ -45,6 +70,14 @@ ideas = {
 		ROC_The_early_days_of_military_reform = {
 			
 			picture = ROC_The_early_days_of_military_reform
+
+			modifier = {
+				army_morale_factor = 0.05
+				MODIFIERS_ARMY_ATTACK_FACTOR = 0.05
+				MODIFIERS_ARMY_DEFENCE_FACTOR = 0.05
+				training_time_army_factor = 0.2
+				command_power_gain = 0.1
+			}
 			
 
 		}

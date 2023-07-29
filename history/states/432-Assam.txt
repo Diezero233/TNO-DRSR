@@ -6,10 +6,10 @@ state={
 		rubber = 12
 	}
 	history={
-		owner = AZH
+		owner = IND
 		victory_points = { 7662 15 }
 		victory_points = { 10443 10 }
-		add_core_of = AZH
+		add_core_of = IND
 		add_core_of = IND
 		buildings = {
 			infrastructure = 3

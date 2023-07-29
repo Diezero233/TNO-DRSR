@@ -9,12 +9,12 @@ state = {
 		7726 10557 12531 12608 12668 13059 
 	}
 	history = {
-		owner = OMO
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			air_base = 1
 		}
-		add_core_of = OMO
+		add_core_of = RSA
 		victory_points = { 10557 1 }
 		victory_points = { 13059 2 }
 	}

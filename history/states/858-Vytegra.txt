@@ -6,7 +6,7 @@ state={
 		166 3160 11036 11103 
 	}
 	history={
-		owner = ONG
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			barracks = 1

@@ -4,7 +4,7 @@ state={
 	name="STATE_1642"
 
 	history={
-		owner = MAN
+		owner = ROC
 		victory_points = {
 			14629 5 
 		}
@@ -20,7 +20,7 @@ state={
 			thermoelectric_plant = 1
 
 		}
-		add_core_of = MAN
+		add_core_of = ROC
 
 	}
 

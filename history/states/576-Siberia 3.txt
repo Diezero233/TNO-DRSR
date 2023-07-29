@@ -4,13 +4,13 @@ state={
 	name="STATE_576"
 
 	history={
-		owner = TOM
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			barracks = 1
 		}
 		victory_points = { 12615 1 }
-		add_core_of = TOM
+		add_core_of = RSA
 		add_extra_state_shared_building_slots = 1
 	}
 

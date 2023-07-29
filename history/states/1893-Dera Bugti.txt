@@ -5,12 +5,12 @@ state={
 		10813 13484
 	}
 	history={
-		owner = KLT
+		owner = IND
 		victory_points = { 10813 1 }
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = KLT
+		add_core_of = IND
 		add_claim_by = IND
 		add_claim_by = AZH
 	}

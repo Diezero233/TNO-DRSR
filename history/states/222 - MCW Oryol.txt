@@ -6,7 +6,7 @@ state={
 		steel = 28
 	}
 	history={
-		owner = MCW
+		owner = RSA
 		victory_points = { 9355 5 }
 		victory_points = { 3335 10 }
 		victory_points = { 371 5 }
@@ -15,7 +15,7 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = MCW
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 

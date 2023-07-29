@@ -6,7 +6,7 @@ state={
 		oil = 7
 	}
 	history={
-		owner = BKR
+		owner = RSA
 		buildings = {
 			schools = 1
 			offices = 1
@@ -15,7 +15,7 @@ state={
 		}
 		victory_points = { 9349 5 }
 		victory_points = { 9385 10 }
-		add_core_of = BKR
+		add_core_of = RSA
 
 	}
 

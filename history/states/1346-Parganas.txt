@@ -5,8 +5,8 @@ state={
 		1159 12050 2843 9935 7078
 	}
 	history={
-		owner = AZH
-		add_core_of = AZH
+		owner = IND
+		add_core_of = IND
 		add_claim_by = IND
 		buildings = {
 			infrastructure = 4

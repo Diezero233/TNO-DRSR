@@ -9,7 +9,7 @@ state = {
 	}
 
 	history = {
-		owner = IRK
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			air_base = 1
@@ -23,7 +23,7 @@ state = {
 		victory_points = { 4797 8 }
 		victory_points = { 10549 5 }
 		victory_points = { 7828 3 }
-		add_core_of = IRK
+		add_core_of = RSA
 	}
 
 	provinces = {

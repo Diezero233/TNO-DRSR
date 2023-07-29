@@ -8,10 +8,9 @@ state={
 	}
 
 	history={
-		owner = VIN
+		owner = VIC
 		add_core_of = VIN
 		add_core_of = VIC
-		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 1
 		}

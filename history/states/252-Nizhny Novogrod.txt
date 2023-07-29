@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = GOR
+		owner = RSA
 		victory_points = {
 			11375 30 
 		}
@@ -23,7 +23,7 @@ state={
 			infrastructure = 4
 			air_base = 3
 		}
-		add_core_of = GOR
+		add_core_of = RSA
 		add_claim_by = MCW
 		set_state_flag = universal_renamings
 

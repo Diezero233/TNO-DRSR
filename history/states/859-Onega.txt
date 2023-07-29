@@ -10,7 +10,7 @@ state={
 		26 140 3031 3086 3092 6034 6051 11038 11071 11137 11178 
 	}
 	history={
-		owner = ONG
+		owner = RSA
 		buildings = {
 			infrastructure = 3
 			barracks = 1

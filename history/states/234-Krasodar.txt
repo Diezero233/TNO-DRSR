@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = CAU
+		owner = RSA
 		victory_points = {
 			6738 5 
 		}
@@ -34,7 +34,7 @@ state={
 			}
 
 		}
-		add_core_of = CAU
+		add_core_of = RSA
 
 	}
 

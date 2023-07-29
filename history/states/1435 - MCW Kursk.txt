@@ -6,8 +6,8 @@ state={
 		steel = 98
 	}
 	history={
-		owner = MCW
-		add_core_of = MCW
+		owner = RSA
+		add_core_of = RSA
 		victory_points = { 3580 10 }
 		victory_points = { 580 5 }
 		victory_points = { 328 5 }

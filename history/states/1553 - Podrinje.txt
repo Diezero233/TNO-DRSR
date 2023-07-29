@@ -4,14 +4,14 @@ state={
 	name="STATE_1553"
 
 	history={
-		owner = CRO
+		owner = IND
 		victory_points = { 15677 5 }
 		buildings = {
 			infrastructure = 3
 			air_base = 1
 
 		}
-		add_core_of = CRO
+		add_core_of = IND
 	}
 
 	provinces={

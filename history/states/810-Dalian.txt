@@ -5,8 +5,8 @@ state={
 		1150 6851 
 	}
 	history = {
-		 owner = JAP
-		 add_core_of = MAN
+		 owner = ROC
+		 add_core_of = ROC
 		 buildings = {
 			infrastructure = 5
 			barracks = 1

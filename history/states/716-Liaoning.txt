@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = MAN
-		add_core_of = MAN
+		owner = ROC
+		add_core_of = ROC
 		buildings = {
 			infrastructure = 5
 			radar_station = 2

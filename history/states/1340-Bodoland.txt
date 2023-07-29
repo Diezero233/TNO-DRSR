@@ -8,14 +8,14 @@ state={
 		rubber = 8
 	}
 	history={
-		owner = AZH
+		owner = IND
 		victory_points = { 16120 5 }
 		victory_points = { 16121 1 }
 		buildings = {
 			infrastructure = 3
 			schools = 1
 		}
-		add_core_of = AZH
+		add_core_of = IND
 		add_claim_by = IND
 	}
 	manpower=4252365

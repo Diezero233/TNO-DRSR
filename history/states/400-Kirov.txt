@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = VYT
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			air_base = 3
@@ -19,7 +19,7 @@ state={
 		}
 		victory_points = { 6124 20 }
 		victory_points = { 272 5 }
-		add_core_of = VYT
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 
 	}

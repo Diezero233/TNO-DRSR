@@ -4,12 +4,12 @@ state = {
 	name="STATE_761"
 
 	history = {
-		owner = NRL
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = NRL
+		add_core_of = RSA
 		victory_points = { 13359 1 }
 	}
 

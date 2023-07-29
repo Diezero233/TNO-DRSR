@@ -8,7 +8,7 @@ state={
 		oil = 8
 	}
 	history={
-		owner = SBA
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			thermoelectric_plant = 1
@@ -17,7 +17,7 @@ state={
 		}
 		victory_points = { 12621 10 }
 		
-		add_core_of = SBA
+		add_core_of = RSA
 	}
 	provinces={
 		4690 4818 4853 7744 12563 12621 12628 12691  

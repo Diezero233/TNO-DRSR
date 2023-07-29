@@ -10,8 +10,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = MAN
-		add_core_of = MAN
+		owner = ROC
+		add_core_of = ROC
 		
 		buildings = {
 			infrastructure = 3

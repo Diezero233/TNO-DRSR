@@ -5,12 +5,12 @@ state={
 		997 16129 10090 
 	}
 	history={
-		owner = AZH
+		owner = IND
 		victory_points = { 10090 1 }
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = AZH
+		add_core_of = IND
 		add_claim_by = IND
 	}
 	manpower=266063

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SAM
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			thermoelectric_plant = 1
@@ -16,7 +16,7 @@ state={
 		victory_points = {
 			11377 5 
 		}
-		add_core_of = SAM
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 
 	}

@@ -5,7 +5,7 @@ state={
 	}
 
 	history={
-		owner = MAN
+		owner = ROC
 		victory_points = { 10612 5 }
 		victory_points = { 13150 5 }
 		victory_points = { 14622 5 }
@@ -14,7 +14,7 @@ state={
 			infrastructure = 2
 			radar_station = 2
 		}
-		add_core_of = MAN
+		add_core_of = ROC
 	}
 
 	provinces={

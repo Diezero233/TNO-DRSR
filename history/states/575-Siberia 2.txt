@@ -3,7 +3,7 @@ state = {
 	name = "STATE_575"
 
 	history = {
-		owner = NRL
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 

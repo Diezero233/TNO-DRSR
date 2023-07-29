@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = CAU
+		owner = RSA
 		buildings = {
 			infrastructure = 3
 
 		}
 		victory_points = { 9628 3 }
-		add_core_of = CAU
+		add_core_of = RSA
 	}
 
 	provinces={

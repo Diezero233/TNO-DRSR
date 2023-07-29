@@ -9,13 +9,13 @@ state={
 	}
 
 	history={
-		owner = BRY
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 
 		}
 		victory_points = { 13313 3 }
-		add_core_of = BRY
+		add_core_of = RSA
 	}
 
 	provinces={

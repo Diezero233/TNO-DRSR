@@ -10,7 +10,7 @@ state={ #Population Done
 	}
 
 	history={
-		owner = FIN
+		owner = RSA
 		victory_points = { 6181 5 } #Kantalahti 40k
 		victory_points = { 11117 1 } #Kuola 10k 
 		victory_points = { 9115 1 } #Umpi 5k

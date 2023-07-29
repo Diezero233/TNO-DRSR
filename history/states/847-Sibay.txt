@@ -10,12 +10,12 @@ state={
 		4311 4383 7300 7373 12200 13303 
 	}
 	history={
-		owner = URL
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = { 12200 1 }
-		add_core_of = URL
+		add_core_of = RSA
 	}
 	manpower=213000
 	state_category = rural

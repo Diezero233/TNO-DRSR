@@ -6,14 +6,14 @@ state={
 		oil = 3
 	}
 	history={
-		owner = SAM
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			barracks = 1
 		}
 		victory_points = { 338 3 }
 		victory_points = { 9391 5 }
-		add_core_of = SAM
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 	manpower=550883

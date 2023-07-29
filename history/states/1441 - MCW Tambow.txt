@@ -6,7 +6,7 @@ state={
 		steel = 42
 	}
 	history={
-		owner = MCW
+		owner = RSA
 		victory_points = { 11227 5 }
 		victory_points = { 9273 5 }
 		buildings = {
@@ -14,7 +14,7 @@ state={
 			air_base = 4
 			schools = 1
 		}
-		add_core_of = MCW
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 

@@ -6,7 +6,7 @@ state = {
 	}
 
 	history = {
-		owner = AMR
+		owner = RSA
 		buildings = {
 			infrastructure = 3
 			thermoelectric_plant = 1
@@ -16,7 +16,7 @@ state = {
 		victory_points = { 13298 5 }
 		victory_points = { 1845 5 }
 		victory_points = { 10678 10 }
-		add_core_of = AMR
+		add_core_of = RSA
 	}
 
 	provinces = {

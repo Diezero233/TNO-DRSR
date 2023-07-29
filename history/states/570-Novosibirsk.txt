@@ -7,7 +7,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = NOV
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			air_base = 1
@@ -23,7 +23,7 @@ state={
 		victory_points = { 4734 5 }
 		victory_points = { 12606 3 }
 		victory_points = { 4866 5 }
-		add_core_of = NOV
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 	resources={

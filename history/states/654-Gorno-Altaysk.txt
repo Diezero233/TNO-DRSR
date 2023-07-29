@@ -10,14 +10,14 @@ state={
 	state_category = rural
 
 	history={
-		owner = ALT
+		owner = RSA
 		add_extra_state_shared_building_slots = 2
 		buildings = {
 			hospitals = 1
 			infrastructure = 2
 		}
 		victory_points = { 4800 3 }
-		add_core_of = ALT
+		add_core_of = RSA
 		
 	}
 

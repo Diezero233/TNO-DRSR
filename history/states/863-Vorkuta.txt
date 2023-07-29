@@ -6,7 +6,7 @@ state={
 		198 6040 9205 10723 11047 11119 11182 13076 13357 11098 12393
 	}
 	history={
-		owner = VOR
+		owner = RSA
 		buildings = {
 			barracks = 1
 			prisons = 2
@@ -16,7 +16,7 @@ state={
 		victory_points = { 13357 7 }
 		victory_points = { 9205 1 }
 		victory_points = { 10723 3 }
-		add_core_of = VOR
+		add_core_of = RSA
 	}
 	resources={
 		oil = 23

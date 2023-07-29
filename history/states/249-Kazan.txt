@@ -4,7 +4,7 @@ state={
 	name="STATE_249"
 
 	history={
-		owner = TAR
+		owner = RSA
 		buildings = {
 			schools = 1
 			hospitals = 1
@@ -13,7 +13,7 @@ state={
 		}
 		victory_points = { 6338 25 }
 		victory_points = { 260 3 }
-		add_core_of = TAR
+		add_core_of = RSA
 
 	}
 

@@ -10,7 +10,7 @@ state={
 		4215 4261 7281 10196 10224 
 	}
 	history={
-		owner = DRL
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			thermoelectric_plant = 1

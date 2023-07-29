@@ -9,8 +9,8 @@ state={
 	}
 	
 	history={
-		owner = FIN
-		add_core_of = FIN
+		owner = RSA
+		add_core_of = RSA
 		victory_points = { 3187 1 } #Sortavala 20k
 		victory_points = { 9105 1 } #Käkisalmi 20k
 		victory_points = { 6153 1 } #Suojärvi 10k

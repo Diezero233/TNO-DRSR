@@ -9,7 +9,7 @@ state={
 		6275 9243 9299 11225 
 	}
 	history={
-		owner = SAM
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			thermoelectric_plant = 1
@@ -22,7 +22,7 @@ state={
 		victory_points = { 9243 7 }
 		victory_points = { 6275 3 }
 		victory_points = { 9299 10 }
-		add_core_of = SAM
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 	manpower=1846000

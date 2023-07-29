@@ -581,3 +581,5 @@ ZZZ = "countries/anarchy.txt" #ANARCHY SHOULD BE THE LAST TAG
 
 ###DRSR###
 ROC = "countries/Republic Of China.txt"
+RSA = "countries/Rossiyskaya respublika.txt"
+ROK = "countries/Republic of Korea.txt"

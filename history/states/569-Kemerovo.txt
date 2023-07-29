@@ -8,7 +8,7 @@ state = {
 		oil = 9
 	}
 	history = {
-		owner = KEM
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			thermoelectric_plant = 2
@@ -19,7 +19,7 @@ state = {
 		}
 		victory_points = { 4789 20 }
 		victory_points = { 1685 15 }
-		add_core_of = KEM
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 	provinces = {

@@ -8,12 +8,12 @@ state={
 		chromium = 5
 	}
 	history={
-		owner = MFP
+		owner = AFG
 		victory_points = { 12763 10 }
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = MFP
+		add_core_of = IND
 		add_claim_by = IND
 		add_claim_by = AZH
 	}

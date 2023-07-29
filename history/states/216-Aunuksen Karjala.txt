@@ -4,7 +4,7 @@ state={ #Population Done
 	name="STATE_216"
 
 	history={
-		owner = FIN
+		owner = RSA
 		victory_points = { 11159 10 } #Aanislima 80k
 		victory_points = { 155 1 } #Segee 20k 
 		buildings = {
@@ -19,7 +19,7 @@ state={ #Population Done
 			schools = 1
 		}
 		
-		add_core_of = FIN
+		add_core_of = RSA
 
 	}
 

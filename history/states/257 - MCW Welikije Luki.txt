@@ -4,7 +4,7 @@ state={
 	name="STATE_257"
 
 	history={
-		owner = MCW
+		owner = RSA
 		victory_points = {
 			11234 10 
 		}
@@ -15,7 +15,7 @@ state={
 			infrastructure = 3
 
 		}
-		add_core_of = MCW
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 

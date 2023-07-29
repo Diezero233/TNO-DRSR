@@ -7,14 +7,14 @@ state={
 		chromium = 2
 	}
 	history={
-		owner = KLT
+		owner = IND
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = { 1179 1 }
 		add_claim_by = IND
 		add_claim_by = AZH
-		add_core_of = KLT
+		add_core_of = IND
 	}
 
 	provinces={

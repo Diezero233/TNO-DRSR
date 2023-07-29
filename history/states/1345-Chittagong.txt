@@ -10,7 +10,7 @@ state={
 		chromium = 11
 	}
 	history={
-		owner = AZH
+		owner = IND
 		victory_points = { 9991 20 }
 		victory_points = { 11968 5 }
 		victory_points = { 12010 1 }
@@ -22,7 +22,7 @@ state={
 			}
 			dockyard = 1
 		}
-		add_core_of = AZH
+		add_core_of = IND
 		add_claim_by = IND
 	}
 	manpower=13525725

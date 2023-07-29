@@ -10,14 +10,14 @@ state={
 		1666 4795 4821 4868 12538 12565 13327 7889 4855
 	}
 	history={
-		owner = YAK
+		owner = RSA
 		buildings = {
 			offices = 1
 			infrastructure = 2
 			air_base = 1
 
 		}
-		add_core_of = YAK
+		add_core_of = RSA
 		victory_points = { 4868 5 }
 		add_extra_state_shared_building_slots = 1
 	}

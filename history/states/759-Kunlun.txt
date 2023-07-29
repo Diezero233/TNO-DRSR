@@ -9,7 +9,7 @@ state = {
 		4878 6211 12634 13350 13355 13356 
 	}
 	history = {
-		owner = OMO
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			air_base = 1

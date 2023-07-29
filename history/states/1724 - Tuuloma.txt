@@ -3,12 +3,12 @@ state={  #Population Done
 	name="STATE_1724"
 
 	history={
-		owner = FIN
+		owner = RSA
 		victory_points = { 9123 1 } #Alakurtti 5k
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = FIN
+		add_core_of = RSA
 
 	}
 

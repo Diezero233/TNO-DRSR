@@ -8,7 +8,7 @@ state={
 	}
 	state_category = city
 	history={
-		owner = OMS
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			thermoelectric_plant = 1
@@ -18,7 +18,7 @@ state={
 		victory_points = { 4700 1 }
 		victory_points = { 10568 3 }
 		
-		add_core_of = OMS
+		add_core_of = RSA
 	}
 	
 	resources={

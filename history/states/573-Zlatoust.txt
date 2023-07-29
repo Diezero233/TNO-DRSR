@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = ZLT
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			thermoelectric_plant = 1
@@ -23,7 +23,7 @@ state={
 		victory_points = {
 			12567 7 
 		}
-		add_core_of = ZLT
+		add_core_of = RSA
 
 	}
 

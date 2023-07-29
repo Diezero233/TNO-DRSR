@@ -11,13 +11,13 @@ state={
 		410 452 6339 6473 6502 9337 9473 11321 11458 13292
 	}
 	history={
-		owner = SAM
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			barracks = 1
 		}
 		victory_points = { 6502 1 }
-		add_core_of = SAM
+		add_core_of = RSA
 		
 
 	}

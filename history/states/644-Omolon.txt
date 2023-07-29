@@ -6,11 +6,11 @@ state = {
 		tungsten = 15
 	}
 	history = {
-		owner = OMO
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = OMO
+		add_core_of = RSA
 		victory_points = { 4455 5 }
 	}
 

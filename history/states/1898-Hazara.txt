@@ -9,12 +9,13 @@ state={
 		power = 2
 	}
 	history={
-		owner = MFP
+		owner = AFG
 		victory_points = { 16005 5 }
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = MFP
+		add_core_of = IND
+		add_core_of = AFG
 		add_claim_by = IND
 		add_claim_by = AZH
 	}

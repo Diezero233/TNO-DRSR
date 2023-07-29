@@ -6,7 +6,7 @@ state={
 		steel = 19
 	}
 	history={
-		owner = PRM
+		owner = RSA
 		buildings = {
 			infrastructure = 4
 			thermoelectric_plant = 1
@@ -15,7 +15,7 @@ state={
 		victory_points = { 7375 25 }
 		victory_points = { 12216 5 }
 		victory_points = { 11228 5 }
-		add_core_of = PRM
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 
 	}

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SBA
+		owner = RSA
 		buildings = {
 			infrastructure = 3
 			thermoelectric_plant = 1
@@ -15,7 +15,7 @@ state={
 			barracks = 1
 		}
 		victory_points = { 1803 3 }
-		add_core_of = SBA
+		add_core_of = RSA
 	}
 
 	provinces={

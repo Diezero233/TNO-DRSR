@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = MGN
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			thermoelectric_plant = 1

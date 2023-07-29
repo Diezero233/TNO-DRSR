@@ -4,7 +4,7 @@ state={
 	name="STATE_247"
 
 	history={
-		owner = MCW
+		owner = RSA
 		victory_points = { 6245	10 }
 		victory_points = { 9046	5 }
 		victory_points = { 11349 1 }
@@ -16,7 +16,7 @@ state={
 			thermoelectric_plant = 4
 			schools = 1
 		}
-		add_core_of = MCW
+		add_core_of = RSA
 		set_state_flag = universal_renamings
 	}
 

@@ -9,13 +9,13 @@ state={
 		3081 3155 7330 11200 13347 
 	}
 	history={
-		owner = WRS
+		owner = RSA
 		buildings = {
 			infrastructure = 1
 			barracks = 1
 		}
 		victory_points = { 3155 1 }
-		add_core_of = WRS
+		add_core_of = RSA
 	}
 	manpower=42000
 	state_category=pastoral

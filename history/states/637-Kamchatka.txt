@@ -4,7 +4,7 @@ state = {
 	name = "STATE_637"
 
 	history = {
-		owner = KMC
+		owner = RSA
 		add_extra_state_shared_building_slots = 2
 		buildings = {
 			
@@ -18,7 +18,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = KMC
+		add_core_of = RSA
 		victory_points = { 4728 5 }
 	}
 

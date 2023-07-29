@@ -9,7 +9,7 @@ state={
 		chromium = 23
 	}
 	history={
-		owner = MFP
+		owner = AFG
 		victory_points = { 12717 15 }
 		buildings = {
 			infrastructure = 4
@@ -17,7 +17,7 @@ state={
 			barracks = 1
 			air_base = 3
 		}
-		add_core_of = MFP
+		add_core_of = IND
 		add_claim_by = IND
 		add_claim_by = AZH
 	}

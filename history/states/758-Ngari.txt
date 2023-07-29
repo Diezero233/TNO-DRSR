@@ -9,12 +9,12 @@ state={
 		oil = 8
 	}
 	history={
-		owner = SBA
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 			prisons = 1
 		}
-		add_core_of = SBA
+		add_core_of = RSA
 		
 		victory_points = { 4782 1 }
 	}

@@ -3,4 +3,4 @@
 graphical_culture = asian_gfx
 graphical_culture_2d = CHI
 
-color = rgb { 0 0 225 }
+color = rgb { 27 42 152 }

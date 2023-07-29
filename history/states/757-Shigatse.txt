@@ -11,7 +11,7 @@ state={
 		oil = 7
 	}
 	history={
-		owner = KRS
+		owner = RSA
 		add_extra_state_shared_building_slots = 3
 		buildings = {
 			schools = 2
@@ -24,7 +24,7 @@ state={
 		victory_points = { 4724 20 }
 		victory_points = { 10649 3 }
 		victory_points = { 7815 1 }
-		add_core_of = KRS
+		add_core_of = RSA
 		
 	}
 	state_category=large_town

@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = TOM
+		owner = RSA
 		buildings = {
 			air_base = 1
 			infrastructure = 4
@@ -21,7 +21,7 @@ state={
 		victory_points = {
 			7789 15 
 		}
-		add_core_of = TOM
+		add_core_of = RSA
 
 	}
 

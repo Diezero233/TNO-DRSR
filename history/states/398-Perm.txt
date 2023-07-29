@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = GAY
+		owner = RSA
 		buildings = {
 			schools = 1
 			offices = 1
@@ -19,7 +19,7 @@ state={
 		}
 		victory_points = { 12187 3 }
 		victory_points = { 12527 5 }
-		add_core_of = GAY
+		add_core_of = RSA
 
 	}
 

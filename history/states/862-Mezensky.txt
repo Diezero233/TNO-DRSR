@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = WRS
+		owner = RSA
 		buildings = {
 			infrastructure = 3
 			prisons = 1
 			barracks = 1
 		}
-		add_core_of = WRS
+		add_core_of = RSA
 		victory_points = { 6192 1  }
 	}
 

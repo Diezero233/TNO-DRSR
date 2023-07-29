@@ -10,11 +10,11 @@ state={
 	}
 
 	history={
-		owner = TOM
+		owner = RSA
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = TOM
+		add_core_of = RSA
 		victory_points = { 12174 1 }
 	}
 

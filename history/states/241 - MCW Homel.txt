@@ -4,13 +4,13 @@ state={
 	name="STATE_241"
 
 	history={
-		owner = MCW
+		owner = RSA
 		victory_points = { 9288 10 }
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = MCW
+		add_core_of = RSA
 		set_state_flag = state_renamings
 	}
 

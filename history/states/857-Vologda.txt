@@ -6,7 +6,7 @@ state={
 		75 106 174 2996 3157 3175 6097 9110 9131 9168 9199 9202 11095 11107 11143 11177 11189 11213 
 	}
 	history={
-		owner = VOL
+		owner = RSA
 		buildings = {
 			
 			offices = 1
@@ -17,7 +17,7 @@ state={
 		victory_points = { 9131 15 }
 		victory_points = { 11107 3 }
 		victory_points = { 11189 1 }
-		add_core_of = VOL
+		add_core_of = RSA
 		add_claim_by = MCW
 	}
 		manpower=321000
