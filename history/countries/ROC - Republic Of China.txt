@@ -6,6 +6,31 @@ recruit_character = ROC_Li_Yuancu
 recruit_character = ROC_Xu_Lide
 recruit_character = ROC_Li_Zhaoxuan
 recruit_character = ROC_Tang_Fei
+recruit_character = ROC_Xue_Shimin
+recruit_character = ROC_Dai_Bote
+recruit_character = ROC_Gao_Huazhu
+recruit_character = ROC_Chang_Wanquan
+recruit_character = ROC_Yang_Tianxiao
+recruit_character = ROC_Fang_Fenghui
+recruit_character = ROC_Hu_Zhenpu
+recruit_character = ROC_Fan_Changlong
+recruit_character = ROC_Wu_Dapeng
+recruit_character = ROC_Zhu_Kaisheng
+recruit_character = ROC_Han_Weiguo
+recruit_character = ROC_Cai_Yingting
+recruit_character = ROC_Li_Zuocheng
+recruit_character = ROC_Wei_Fenghe
+recruit_character = ROC_Zheng_Demei
+recruit_character = ROC_Jin_Enqing
+recruit_character = ROC_Wang_Xinlong
+recruit_character = ROC_Yan_Defa
+recruit_character = ROC_Qiu_Guozheng
+recruit_character = ROC_Chen_Baoyu
+recruit_character = ROC_Chen_Zhenxiang
+recruit_character = ROC_Liang_Guanglie
+recruit_character = ROC_Cao_Gangchuan
+recruit_character = ROC_Zhao_Shizhang
+recruit_character = ROC_Huo_Shouye
 
 
 
@@ -359,7 +384,7 @@ set_variable = { ROC_industry_effcap = -0.35 }
 set_variable = { ROC_industry_const = -0.25 }
 
 set_politics = {
-	ruling_party = communist
+	ruling_party = liberalism
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
@@ -368,11 +393,11 @@ set_politics = {
 set_popularities = {
 	communist = 22
 	despotism = 0
-	socialist = 11
+	socialist = 7
 	progressivism = 5
-	liberalism = 12
-	conservatism = 43
-	paternalism = 7
+	liberalism = 43
+	conservatism = 11
+	paternalism = 12
 	fascism = 0
 	national_socialism = 0
 
