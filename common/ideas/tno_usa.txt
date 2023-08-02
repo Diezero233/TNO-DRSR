@@ -1,0 +1,52 @@
+ideas = {
+	country = {
+		
+		USA_Revitalize_local_manufacturing = {
+			
+			picture = USA_Revitalize_local_manufacturing
+			
+
+		}
+
+	}
+	country = {
+		
+		USA_The_OFN_in_name_only = {
+			
+			picture = USA_The_OFN_in_name_only
+
+
+		}
+
+	}
+	country = {
+		
+		USA_America_comes_first = {
+			
+			picture = USA_America_comes_first
+
+
+		}
+
+	}
+	country = {
+		
+		USA_Conservatism_returns = {
+			
+			picture = USA_Conservatism_returns
+
+
+		}
+
+	}
+	country = {
+		
+		USA_Civil_rights_split = {
+			
+			picture = USA_Civil_rights_split
+
+
+		}
+
+	}
+}

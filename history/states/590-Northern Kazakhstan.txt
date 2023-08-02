@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = KOK
+		owner = KAE
 		victory_points = {
 			1418 5 
 		}
@@ -18,7 +18,7 @@ state={
 			hospitals = 1
 			barracks = 1
 		}
-		add_core_of = KOK
+		add_core_of = KAE
 	}
 
 	provinces={

@@ -1,0 +1,63 @@
+
+############################
+## America Events
+############################
+
+add_namespace = USA
+
+country_event = {
+	id = USA.1
+    title = USA.1.t
+    desc = USA.1.desc
+    #title和desc皆为文本代码，需在本地化文件写文本#
+	
+    trigger = { date > 1962.1.1 }
+    fire_only_once = yes
+
+	picture = GFX_report_event_USA_no_happy
+    
+	hidden = no
+
+	option = { 
+		name = USA.1.b
+	}
+
+}
+
+country_event = {
+	id = USA.2001
+    title = USA.2001.t
+    desc = USA.2001.desc
+    #title和desc皆为文本代码，需在本地化文件写文本#
+	
+    trigger = { date > 1962.1.1 }
+    fire_only_once = yes
+
+	picture = GFX_report_event_USA_shout
+    
+	hidden = no
+
+	option = { 
+		name = USA.2001.b
+	}
+
+}
+
+country_event = {
+	id = USA.2002
+    title = USA.2002.t
+    desc = USA.2002.desc
+    #title和desc皆为文本代码，需在本地化文件写文本#
+	
+    trigger = { date > 1962.1.1 }
+    fire_only_once = yes
+
+	picture = GFX_report_event_USA_complain
+    
+	hidden = no
+
+	option = { 
+		name = USA.2002.b
+	}
+
+}

@@ -1,0 +1,22 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_USA_Revitalize_local_manufacturing"
+		texturefile = "gfx/interface/ideas/USA/idea_USA_Revitalize_local_manufacturing.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_USA_The_OFN_in_name_only"
+		texturefile = "gfx/interface/ideas/USA/idea_USA_The_OFN_in_name_only.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_USA_America_comes_first"
+		texturefile = "gfx/interface/ideas/USA/idea_USA_America_comes_first.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_USA_Conservatism_returns"
+		texturefile = "gfx/interface/ideas/USA/idea_USA_Conservatism_returns.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_USA_Civil_rights_split"
+		texturefile = "gfx/interface/ideas/USA/idea_USA_Civil_rights_split.dds"
+	}
+}

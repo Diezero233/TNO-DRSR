@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = KAZ
+		owner = KAE
 		buildings = {
 			infrastructure = 3
 			thermoelectric_plant = 1
@@ -22,7 +22,7 @@ state={
 			air_base = 1
 		}
 		victory_points = { 4224 5 }
-		add_core_of = KAZ
+		add_core_of = KAE
 	}
 	provinces={
 		1591 1840 4224 4651 7711 10146 10547

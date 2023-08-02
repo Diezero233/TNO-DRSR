@@ -10,14 +10,13 @@ state={
 		tungsten=3
 	}
 	history={
-		owner = UZB
+		owner = ROU
 		victory_points = { 14742 5 }
 		buildings = {
 			infrastructure = 4
 			air_base = 4
 		}
-		add_core_of = UZB
-		set_demilitarized_zone = yes
+		add_core_of = ROU
 	}
 
 	provinces={

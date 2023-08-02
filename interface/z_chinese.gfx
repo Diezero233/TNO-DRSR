@@ -23,6 +23,21 @@ bitmapfonts = {
 		}
 	}
 
+	bitmapfont = {
+		name = "chinese_eventfont22_0_0"
+		fontfiles = {
+			"gfx/fonts/fhdzt_16_0"
+            "gfx/fonts/fhdzt_16_1"
+            "gfx/fonts/fzrzhm_16_outline"
+			"gfx/fonts/aldrich_18_outline"
+        }
+		color = 0xffffffff
+		textcolors = {
+			W = { 255 255 255 }
+			b = { 0 0 0 }
+		}
+	}
+
 	bitmapfont_override = {
         name = "aldrich_18_outline"
         fontfiles = {

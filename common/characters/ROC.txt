@@ -89,7 +89,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 2
 			attack_skill = 1
 			defense_skill = 1
 			planning_skill = 4
@@ -105,7 +105,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 2
 			defense_skill = 1
 			planning_skill = 3
@@ -121,7 +121,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 2
 			defense_skill = 1
 			planning_skill = 3
@@ -137,7 +137,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 3
 			defense_skill = 4
 			planning_skill = 3
@@ -153,7 +153,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 4
 			defense_skill = 2
 			planning_skill = 3
@@ -169,7 +169,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 1
 			defense_skill = 1
 			planning_skill = 2
@@ -185,7 +185,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 1
 			defense_skill = 2
 			planning_skill = 2
@@ -201,7 +201,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 2
 			defense_skill = 1
 			planning_skill = 2
@@ -217,7 +217,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 3
 			defense_skill = 1
 			planning_skill = 2
@@ -233,7 +233,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 3
 			defense_skill = 4
 			planning_skill = 2
@@ -249,7 +249,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 2
 			attack_skill = 3
 			defense_skill = 2
 			planning_skill = 1
@@ -265,7 +265,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 2
 			defense_skill = 1
 			planning_skill = 4
@@ -281,7 +281,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 3
 			defense_skill = 1
 			planning_skill = 3
@@ -297,7 +297,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 4
 			defense_skill = 3
 			planning_skill = 1
@@ -313,7 +313,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 3
 			defense_skill = 2
 			planning_skill = 1
@@ -329,7 +329,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 3
 			defense_skill = 1
 			planning_skill = 2
@@ -345,7 +345,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 3
 			attack_skill = 2
 			defense_skill = 2
 			planning_skill = 3
@@ -361,7 +361,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 2
 			defense_skill = 2
 			planning_skill = 4
@@ -377,7 +377,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 4
 			attack_skill = 3
 			defense_skill = 2
 			planning_skill = 3
@@ -393,7 +393,7 @@ characters = {
 		}
 		corps_commander = { 
 			traits = {  }
-			skill = 1
+			skill = 2
 			attack_skill = 2
 			defense_skill = 3
 			planning_skill = 2
@@ -409,7 +409,7 @@ characters = {
 		}
 		field_marshal = { 
 			traits = {  }
-			skill = 1
+			skill = 5
 			attack_skill = 4
 			defense_skill = 4
 			planning_skill = 3
@@ -425,7 +425,7 @@ characters = {
 		}
 		field_marshal = { 
 			traits = {  }
-			skill = 1
+			skill = 5
 			attack_skill = 3
 			defense_skill = 6
 			planning_skill = 2
@@ -441,7 +441,7 @@ characters = {
 		}
 		field_marshal = { 
 			traits = {  }
-			skill = 1
+			skill = 5
 			attack_skill = 2
 			defense_skill = 3
 			planning_skill = 4
@@ -457,7 +457,7 @@ characters = {
 		}
 		field_marshal = { 
 			traits = {  }
-			skill = 1
+			skill = 5
 			attack_skill = 2
 			defense_skill = 4
 			planning_skill = 1
@@ -473,7 +473,7 @@ characters = {
 		}
 		field_marshal = { 
 			traits = {  }
-			skill = 1
+			skill = 5
 			attack_skill = 5
 			defense_skill = 3
 			planning_skill = 1
