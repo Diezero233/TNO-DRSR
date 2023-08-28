@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 3780 30 }
 		victory_points = { 969 5 }
 		victory_points = { 3776 3 }
@@ -20,7 +20,7 @@ state={
 			infrastructure = 6
 			air_base = 10
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 	}
 
 	provinces={

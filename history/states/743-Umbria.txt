@@ -8,14 +8,14 @@ state = {
 	}
 
 	history = {
-		owner = ITA
+		owner = PRI
 		victory_points = { 3885 5 }
 		buildings = {
 			infrastructure = 5
 			air_base = 1
 			schools = 1
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 
 	}
 

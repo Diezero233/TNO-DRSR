@@ -1,0 +1,19 @@
+capital = 2
+recruit_character = PRI_Armando_Cossutta
+
+set_politics = {
+    ruling_party = communist
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    communist = 57
+    socialist = 24
+    progressivism = 15
+    conservatism = 1
+    despotism = 2
+    fascism = 1
+}
+
+

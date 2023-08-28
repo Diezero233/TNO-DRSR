@@ -4,7 +4,7 @@ state={
 	name="STATE_115"
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 10074 20 }
 		victory_points = { 4159 10 }
 		victory_points = { 4014 5 }
@@ -29,7 +29,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 	}
 
 	provinces={

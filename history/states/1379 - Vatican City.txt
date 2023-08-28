@@ -5,14 +5,14 @@ state={
 		14478
 	}
 	history={
-		owner = VAC
+		owner = PRI
 		victory_points = {
 			14478 10 
 		}
 		buildings = {
 			infrastructure = 7
 		}
-		add_core_of = VAC	
+		add_core_of = PRI
 	}
 	manpower=750
 	buildings_max_level_factor=1.000

@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = SER
 		victory_points = { 9874 5 }
 		victory_points = { 6913 1 }
 		buildings = {
@@ -18,8 +18,8 @@ state={
 			air_base = 3
 			schools = 1
 			hospitals = 1
-
 		}
+		set_demilitarized_zone = yes
 		add_core_of = SER
 		add_core_of = ALB
 	}

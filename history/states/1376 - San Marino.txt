@@ -5,7 +5,7 @@ state={
 		14475
 	}
 	history={
-		owner = SNM
+		owner = PRI
 		victory_points = {
 			14475 10 
 		}
@@ -13,7 +13,7 @@ state={
 			infrastructure = 4
 			radar_station = 1
 		}
-		add_core_of = SNM
+		add_core_of = PRI
 	}
 	manpower=16000
 	buildings_max_level_factor=1.000

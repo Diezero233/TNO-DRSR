@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 11584 15 }
 		victory_points = { 3604 5 }
 		victory_points = { 6656 1 }
@@ -22,7 +22,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 
 	}
 

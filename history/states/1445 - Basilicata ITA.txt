@@ -5,12 +5,12 @@ state={
 	manpower = 644275
 	state_category = rural
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 6972 5 }
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 	}
 
 	provinces={

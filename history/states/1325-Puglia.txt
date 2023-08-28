@@ -4,7 +4,7 @@ state={
 	state_category = city
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 9784 5 }
 		victory_points = { 11837 10 }
 		victory_points = { 11998 5 }
@@ -24,7 +24,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 		add_extra_state_shared_building_slots = 4
 	}
 

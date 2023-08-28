@@ -4,7 +4,7 @@ state={
 	state_category = town
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 14434 5 }
 		buildings = {
 			prisons = 1
@@ -18,7 +18,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 	}
 
 	provinces={

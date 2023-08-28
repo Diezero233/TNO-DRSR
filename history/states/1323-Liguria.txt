@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = PRI
 		victory_points = { 14640 15 }
 		victory_points = { 15619 15 }
 		buildings = {
@@ -28,7 +28,7 @@ state={
 			air_base = 3
 			anti_air_building = 2
 		}
-		add_core_of = ITA
+		add_core_of = PRI
 	}
 
 	provinces = {

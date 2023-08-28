@@ -1,0 +1,35 @@
+﻿l_simp_chinese:
+ PRI_communist:0 "意大利人民共和国"
+ PRI_socialist:0 "意大利人民共和国"
+ PRI_progressivism:0 "意大利人民共和国"
+ PRI_DEF:0 "意大利"
+ PRI_ADJ:0 "意大利"
+ PRI_Armando_Cossutta:0 "Armando Cossuta"
+
+ PRI_communist_party:0 "意大利共产党"
+ PRI_communist_party_long:0 "意大利共产党(Partito Comunista Italiano)"
+
+ PRI_socialist_party:0 "意大利统一社会党-左派"
+ PRI_socialist_party_long:0 "意大利统一社会党-左派(Partito Socialista Italiano-Sinistra)"
+
+ PRI_progressivism_party:0 "意大利统一社会党-右派"
+ PRI_progressivism_party_long:0 "意大利统一社会党-右派(Partito Socialista Italiano-Di destra)"
+
+ PRI_despotism_party:0 "意大利争取民主同盟"
+ PRI_despotism_party_long:0 "意大利争取民主同盟(Lega Italiana per la Democrazia)"
+
+ PRI_paternalism_party:0 "意大利争取民主同盟"
+ PRI_paternalism_party_long:0 "意大利争取民主同盟(Lega Italiana per la Democrazia)"
+
+ PRI_conservatism_party:0 "意大利争取民主同盟"
+ PRI_conservatism_party_long:0 "意大利争取民主同盟(Lega Italiana per la Democrazia)"
+
+ PRI_facism_party:0 "意大利革命行动法西斯"
+ PRI_facism_party_long:0 "意大利革命行动法西斯(Fascisti d'Azione Rivoluzionaria Italiana)"
+
+ PRI_esoteric_nazism_party:0 "意大利革命行动法西斯"
+ PRI_esoteric_nazism_party_long:0 "意大利革命行动法西斯(Fascisti d'Azione Rivoluzionaria Italiana)"
+
+ PRI_national_socialism_party:0 "意大利革命行动法西斯"
+ PRI_national_socialism_party_long:0 "意大利革命行动法西斯(Fascisti d'Azione Rivoluzionaria Italiana)"
+ 
