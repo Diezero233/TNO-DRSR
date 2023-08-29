@@ -1,5 +1,0 @@
-graphical_culture = ITA
-graphical_culture_2d = ITA
-
-color = rgb { 0 0 205 }
-
