@@ -1,6 +1,5 @@
 capital = 2
-recruit_character = PRI_Armando_Cossutta
-
+recruit_character = MAC_Milan_Pancevski
 set_politics = {
     ruling_party = communist
     election_frequency = 48
@@ -17,9 +16,7 @@ set_popularities = {
 }
 add_ideas = {
 	#Country
-    PRI_Forty_Years_of_Revolution
-    PRI_Civilian_military_organizations
-    PRI_In_the_shadows
-    PRI_Left_wing_multi_party_system
+	MAC_Neighbors_with_average_relationships
+	MAC_Call_of_Liberals
+	MAC_Defending_Independence_and_Freedom
 }
-

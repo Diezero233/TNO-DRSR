@@ -1,5 +1,4 @@
 capital = 2
-recruit_character = PRI_Armando_Cossutta
 
 set_politics = {
     ruling_party = communist
@@ -17,9 +16,8 @@ set_popularities = {
 }
 add_ideas = {
 	#Country
-    PRI_Forty_Years_of_Revolution
-    PRI_Civilian_military_organizations
-    PRI_In_the_shadows
-    PRI_Left_wing_multi_party_system
+	ALB_Turning_and_Reform
+	ALB_Hochas_precious_heritage
+	ALB_Assistance_from_comrades
+	ALB_The_Light_of_Tirana
 }
-
