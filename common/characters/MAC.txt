@@ -1,9 +1,9 @@
 characters = {
-    PRI_Armando_Cossutta = {
-        name = PRI_Armando_Cossutta
+    MAC_Milan_Pancevski = {
+        name = MAC_Milan_Pancevski
         portraits = {
             civilian = {
-                large = "gfx/leaders/PRI/PRI_AC.png"
+                large = 
             }
         }
         country_leader = {
@@ -11,7 +11,6 @@ characters = {
             traits = {
             }
             id = -1
-            desc = "PRI_Armando_Cossutta_desc"
         }
     }
 }

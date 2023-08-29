@@ -1,0 +1,52 @@
+ideas = {
+	country = {
+		PRI_Forty_Years_of_Revolution = {				
+		picture = PRI_Forty_Years_of_Revolution
+		allowed_civil_war = {
+			always = yes
+		}
+		modifier = {
+            stability_factor = 0.075
+			free_production_units_modifier = 2
+			army_core_attack_factor = 0.1
+			army_core_defence_factor = 0.1
+			gdp_growth_modifier = 0.5
+			production_factory_max_efficiency_factor = 0.05
+		}
+	}
+	PRI_Civilian_military_organizations = {				
+		picture = PRI_Civilian_military_organizations
+		allowed_civil_war = {
+			always = yes
+		}
+		modifier = {
+            stability_factor = -0.1
+            army_org_factor = 0.075
+			mobilization_speed = 0.20
+			training_time_army_factor = -0.05
+		}
+	}	
+	PRI_In_the_shadows = {				
+		picture = PRI_In_the_shadows
+		allowed_civil_war = {
+			always = yes
+		}
+		modifier = {
+			war_support_factor = -0.15
+			military_costs_misc = 0.05
+			stability_weekly = -0.0005
+			political_power_factor = -0.15
+		}
+	}	
+	PRI_Left_wing_multi_party_system = {				
+		picture = PRI_Left_wing_multi_party_system
+		allowed_civil_war = {
+			always = yes
+		}
+		modifier = {
+			stability_factor = 0.05
+			political_power_factor = -0.05
+		}
+	}		
+}
+}

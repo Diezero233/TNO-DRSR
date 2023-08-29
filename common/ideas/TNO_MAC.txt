@@ -1,0 +1,19 @@
+ideas = {
+	country = {		
+		MAC_Neighbors_with_average_relationships = {			
+			picture = MAC_Neighbors_with_average_relationships
+			modifier = {
+			}		
+		}
+		MAC_Call_of_Liberals = {			
+			picture = MAC_Call_of_Liberals
+			modifier = {
+			}		
+		}	
+		MAC_Defending_Independence_and_Freedom = {			
+			picture = MAC_Defending_Independence_and_Freedom
+			modifier = {
+			}		
+		}	
+	}
+}
