@@ -1,0 +1,16 @@
+characters = {
+    MAC_Milan_Pancevski = {
+        name = MAC_Milan_Pancevski
+        portraits = {
+            civilian = {
+                large = 
+            }
+        }
+        country_leader = {
+            ideology = communist_left_communist_subtype
+            traits = {
+            }
+            id = -1
+        }
+    }
+}

@@ -1,0 +1,17 @@
+characters = {
+    PRI_Armando_Cossutta = {
+        name = PRI_Armando_Cossutta
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/PRI/PRI_AC.png"
+            }
+        }
+        country_leader = {
+            ideology = communist_left_communist_subtype
+            traits = {
+            }
+            id = -1
+            desc = "PRI_Armando_Cossutta_desc"
+        }
+    }
+}
