@@ -6,12 +6,11 @@ state={
 		aluminium=4.000
 	}
 	history={
-		owner = BUL
+		owner = MAC
 		victory_points = { 974 1 }
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = BUL
 		add_core_of = MAC
 	}
 

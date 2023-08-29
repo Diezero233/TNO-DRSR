@@ -19,8 +19,11 @@
  ALB_conservatism_party_long:0 "共和派游击队(Republican Partisans)"
  ALB_paternalism_party:0 "保王派游击队"
  ALB_paternalism_party_long:0 "保王派游击队(Royalist Partisans)"
+ ALB_Milan_Pancevski:0 "米兰·潘切夫斯基"
+ 
  ALB_Koci_Xoxe:0 "科奇·佐泽"
  ALB_Enver_Hoxha:0 "恩维尔·霍查"
+ ALB_ramiz:0 "拉米兹·阿利雅"
  POLITICS_ENVER_HOXHA_DESC:0 ""
  ALB_Turning_and_Reform:0 "转向与改革"
  ALB_Turning_and_Reform_desc:0 ""

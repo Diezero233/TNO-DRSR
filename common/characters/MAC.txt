@@ -1,15 +1,27 @@
 characters = {
-    MAC_Milan_Pancevski = {
-        name = MAC_Milan_Pancevski
+    MAC_Vera = {
+        name = MAC_Vera
         portraits = {
             civilian = {
-                large = 
+                large = "gfx/leaders/MAC/MAC_Vera.png"
             }
         }
         country_leader = {
             ideology = communist_left_communist_subtype
             traits = {
             }
+            id = -1
+        }
+    }
+    MAC_Kerst = {
+        name = MAC_Kerst
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MAC/MAC_Kerst.png"
+            }
+        }
+        country_leader = {
+            ideology = communist_left_communist_subtype
             id = -1
         }
     }

@@ -1,5 +1,5 @@
 capital = 2
-
+recruit_character = ALB_Ramiz
 set_politics = {
     ruling_party = communist
     election_frequency = 48

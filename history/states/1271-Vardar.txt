@@ -7,7 +7,7 @@ state={
 		aluminium=20.000
 	}
 	history={
-		owner = BUL
+		owner = MAC
 		victory_points = { 14668 15 }
 		victory_points = { 11832 1 }
 		buildings = {
@@ -16,7 +16,6 @@ state={
 			barracks = 1
 			air_base = 1
 		}
-		add_core_of = BUL
 		add_core_of = MAC
 		set_state_flag = state_renamings
 	}

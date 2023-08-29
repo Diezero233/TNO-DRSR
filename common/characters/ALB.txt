@@ -1,9 +1,9 @@
 characters = {
-    ALB_ = {
-        name = ALB_
+    ALB_Ramiz = {
+        name = ALB_Ramiz
         portraits = {
             civilian = {
-                large = 
+                large = "gfx/leaders/ALB/ALB_ramiz.png"
             }
         }
         country_leader = {
