@@ -1,0 +1,14 @@
+sMACteTypes = {
+	sMACteType = {
+		name = "GFX_idea_MAC_Neighbors_with_average_relationships"
+		texturefile = "gfx/interface/ideas/MAC/MAC_Neighbors_with_average_relationships.png"
+	}
+	sMACteType = {
+		name = "GFX_idea_MAC_Call_of_Liberals"
+		texturefile = "gfx/interface/ideas/MAC/MAC_Call_of_Liberals.png"
+	}
+	sMACteType = {
+		name = "GFX_idea_MAC_Defending_Independence_and_Freedom"
+		texturefile = "gfx/interface/ideas/MAC/MAC_Defending_Independence_and_Freedom.png"
+	}
+}

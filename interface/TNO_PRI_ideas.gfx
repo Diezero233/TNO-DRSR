@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_PRI_Forty_Years_of_Revolution"
+		texturefile = "gfx/interface/ideas/PRI/PRI_Forty_Years_of_Revolution.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_PRI_Civilian_military_organizations"
+		texturefile = "gfx/interface/ideas/PRI/PRI_Civilian_military_organizations.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_PRI_In_the_shadows"
+		texturefile = "gfx/interface/ideas/PRI/PRI_In_the_shadows.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_PRI_Left_wing_multi_party_system"
+		texturefile = "gfx/interface/ideas/PRI/PRI_Left_wing_multi_party_system.dds"
+	}
+}

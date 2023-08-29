@@ -1,0 +1,18 @@
+sALBteTypes = {
+	sALBteType = {
+		name = "GFX_idea_ALB_Turning_and_Reform"
+		texturefile = "gfx/interface/ideas/ALB/ALB_Turning_and_Reform.png"
+	}
+	sALBteType = {
+		name = "GFX_idea_ALB_Hochas_precious_heritage"
+		texturefile = "gfx/interface/ideas/ALB/ALB_Hochas_precious_heritage.png"
+	}
+	sALBteType = {
+		name = "GFX_idea_ALB_Assistance_from_comrades"
+		texturefile = "gfx/interface/ideas/ALB/ALB_Assistance_from_comrades.png"
+	}
+	sALBteType = {
+		name = "GFX_idea_ALB_The_Light_of_Tirana"
+		texturefile = "gfx/interface/ideas/ALB/ALB_The_Light_of_Tirana.png"
+	}
+}
