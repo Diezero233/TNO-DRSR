@@ -1,0 +1,23 @@
+capital = 2
+recruit_character = ULN_Slobodan_Praljak
+
+set_politics = {
+    ruling_party = ultranationalism
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	communist = 0
+	ultranationalism = 0
+	socialist = 0
+	progressivism = 0
+	liberalism = 0
+	ultranationalism = 67
+	conservatism = 0
+	paternalism = 5
+	despotism = 6
+	fascism = 9
+	national_socialism = 13
+	
+}

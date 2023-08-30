@@ -8,12 +8,14 @@ set_politics = {
 }
 
 set_popularities = {
-    communist = 57
-    socialist = 24
-    progressivism = 15
-    conservatism = 1
-    despotism = 2
-    fascism = 1
+    communist = 67
+    socialist = 14
+    progressivism = 12
+    liberalism = 5
+    paternalism = 2
+    conservatism = 0
+    despotism = 0
+    fascism = 0
 }
 add_ideas = {
 	#Country

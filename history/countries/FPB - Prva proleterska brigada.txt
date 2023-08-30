@@ -1,0 +1,17 @@
+capital = 2
+recruit_character = 
+
+set_politics = {
+    ruling_party = communist
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    communist = 60
+    socialist = 30
+    progressivism = 10
+    conservatism = 0
+    despotism = 0
+    fascism = 0
+}

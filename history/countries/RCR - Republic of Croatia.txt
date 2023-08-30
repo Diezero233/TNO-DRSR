@@ -1,5 +1,5 @@
 capital = 2
-recruit_character = SER_SUIBIANSHUI
+recruit_character = RCR_Tomislav_Karamarko
 
 set_politics = {
     ruling_party = liberalism
@@ -11,11 +11,11 @@ set_popularities = {
 	communist = 0
 	ultranationalism = 0
 	socialist = 0
-	progressivism = 20
-	liberalism = 50
+	progressivism = 15
+	liberalism = 49
 	ultranationalism = 0
-	conservatism = 20
-	paternalism = 10
+	conservatism = 21
+	paternalism = 15
 	despotism = 0
 	fascism = 0
 	national_socialism = 0
