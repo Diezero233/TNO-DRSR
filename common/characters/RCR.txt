@@ -1,0 +1,17 @@
+characters = {
+    RCR_Tomislav_Karamarko = {
+        name = RCR_Tomislav_Karamarko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/RCR/RCR_Tomislav_Karamarko.png"
+            }
+        }
+        country_leader = {
+            ideology = liberalism_national_liberal_subtype
+            traits = {
+            }
+            id = -1
+            desc = "RCR_Tomislav_Karamarko_desc"
+        }
+    }
+}

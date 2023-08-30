@@ -3,21 +3,35 @@ ideas = {
 		ALB_Turning_and_Reform = {			
 			picture = ALB_Turning_and_Reform
 			modifier = {
+				production_factory_max_efficiency_factor = 0.1
+				production_speed_buildings_factor = 0.1
+				liberalism_drift = 0.01
+				progressivism_drift = 0.01
 			}		
 		}
 		ALB_Hochas_precious_heritage = {			
 			picture = ALB_Hochas_precious_heritage
 			modifier = {
+				communist_drift = 0.02
+				socialist_drift = 0.02
+				production_speed_infrastructure_factor = 0.05
+				stability_factor = 0.2
 			}		
 		}	
 		ALB_Assistance_from_comrades = {			
 			picture = ALB_Assistance_from_comrades
 			modifier = {
+				gdp_growth_modifier = 5
+				misc_income_modifier = 2
 			}		
 		}	
 		ALB_The_Light_of_Tirana = {			
 			picture = ALB_The_Light_of_Tirana
 			modifier = {
+				communist_acceptance = 10
+				socialist_acceptance = 10
+				progressivism_acceptance = 10
+				misc_costs = 0.5
 			}		
 		}
 	}

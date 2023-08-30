@@ -8,11 +8,17 @@ ideas = {
 		MAC_Call_of_Liberals = {			
 			picture = MAC_Call_of_Liberals
 			modifier = {
+				stability_factor = -0.05
+				liberalism_drift = 0.01
+				conservatism_drift = 0.01
 			}		
 		}	
 		MAC_Defending_Independence_and_Freedom = {			
 			picture = MAC_Defending_Independence_and_Freedom
 			modifier = {
+				war_support_factor = 0.15
+				army_attack_factor = 0.05
+				army_defence_factor = 0.10
 			}		
 		}	
 	}

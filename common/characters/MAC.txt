@@ -21,8 +21,12 @@ characters = {
             }
         }
         country_leader = {
-            ideology = communist_left_communist_subtype
+            ideology = communist_national_communism_subtype
             id = -1
+            traits = {
+            }
+            id = -1
+            desc = "MAC_Kerst_desc"
         }
     }
 }

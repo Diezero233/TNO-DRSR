@@ -1,0 +1,17 @@
+characters = {
+    SER_SUIBIANSHUI = {
+        name = SER_SUIBIANSHUI
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SER/SER.png"
+            }
+        }
+        country_leader = {
+            ideology = liberalism_national_liberal_subtype
+            traits = {
+            }
+            id = -1
+            desc = "SER_SUIBIANSHUI"
+        }
+    }
+}

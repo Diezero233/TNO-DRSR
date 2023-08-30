@@ -1,17 +1,17 @@
 characters = {
-    ALB_Ramiz = {
-        name = ALB_Ramiz
+    FPB_ = {
+        name = FPB_
         portraits = {
             civilian = {
-                large = "gfx/leaders/ALB/ALB_ramiz.png"
+                large = "gfx/leaders/FPB/FPB_.png"
             }
         }
         country_leader = {
-            ideology = communist_marxism_leninism_subtype
+            ideology = communist_national_communism_subtype_desc
             traits = {
             }
             id = -1
-            desc = "ALB_Ramiz_desc"
+            desc = "FPB_ _desc"
         }
     }
 }

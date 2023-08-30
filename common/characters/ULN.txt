@@ -1,0 +1,17 @@
+characters = {
+    ULN_Slobodan_Praljak = {
+        name = ULN_Slobodan_Praljak
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ULN/ULN_Slobodan_Praljak.png"
+            }
+        }
+        country_leader = {
+            ideology = ultranationalism_ultramilitarism_subtype
+            traits = {
+            }
+            id = -1
+            desc = "ULN_Slobodan_Praljak_desc"
+        }
+    }
+}
