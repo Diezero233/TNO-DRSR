@@ -1,0 +1,18 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_idea_FPB_Revolutionary_inheritance"
+		texturefile = "gfx/interface/ideas/FPB/FPB_Revolutionary_inheritance.png"
+	}
+	spriteType = {
+		name = "GFX_idea_FPB_Comintern_Aid"
+		texturefile = "gfx/interface/ideas/FPB/FPB_Comintern_Aid.png"
+	}
+	spriteType = {
+		name = "GFX_idea_FPB_final_struggle"
+		texturefile = "gfx/interface/ideas/FPB/FPB_final_struggle.png"
+	}
+	spriteType = {
+		name = "GFX_idea_croatia_War_resumes"
+		texturefile = "gfx/interface/ideas/FPB/croatia_War_resumes.png"
+	}
+}

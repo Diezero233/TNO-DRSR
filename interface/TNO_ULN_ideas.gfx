@@ -1,0 +1,10 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_idea_ULN_pure_horror"
+		texturefile = "gfx/interface/ideas/ULN/ULN_pure_horror.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ULN_legacy_of_Pavelic"
+		texturefile = "gfx/interface/ideas/ULN/ULN_legacy_of_Pavelic.png"
+	}
+}

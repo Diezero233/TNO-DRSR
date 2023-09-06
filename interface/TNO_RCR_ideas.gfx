@@ -1,0 +1,14 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_idea_RCR_economic_depression"
+		texturefile = "gfx/interface/ideas/RCR/RCR_economic_depression.png"
+	}
+	spriteType = {
+		name = "GFX_idea_RCR_Stacevics_dream"
+		texturefile = "gfx/interface/ideas/RCR/RCR_Stacevics_dream.png"
+	}
+	spriteType = {
+		name = "GFX_idea_RCR_hate_all_over"
+		texturefile = "gfx/interface/ideas/RCR/RCR_hate_all_over.png"
+	}
+}
