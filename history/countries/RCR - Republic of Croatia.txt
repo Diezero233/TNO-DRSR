@@ -21,3 +21,10 @@ set_popularities = {
 	national_socialism = 0
 	
 }
+add_ideas = {
+	#Country
+	croatia_War_resumes
+	RCR_economic_depression
+	RCR_Stacevics_dream
+	RCR_hate_all_over
+}

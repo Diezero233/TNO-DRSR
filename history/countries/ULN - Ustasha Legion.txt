@@ -2,7 +2,7 @@ capital = 2
 recruit_character = ULN_Slobodan_Praljak
 
 set_politics = {
-    ruling_party = ultranationalism
+    ruling_party = fascism
     election_frequency = 48
     elections_allowed = no
 }
@@ -13,11 +13,17 @@ set_popularities = {
 	socialist = 0
 	progressivism = 0
 	liberalism = 0
-	ultranationalism = 67
+	ultranationalism = 20
 	conservatism = 0
-	paternalism = 5
-	despotism = 6
-	fascism = 9
-	national_socialism = 13
+	paternalism = 0
+	despotism = 0
+	fascism = 60
+	national_socialism = 20
 	
+}
+add_ideas = {
+	#Country
+	ULN_pure_horror
+	ULN_legacy_of_Pavelic
+	croatia_War_resumes
 }

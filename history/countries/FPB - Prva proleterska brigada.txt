@@ -1,5 +1,5 @@
 capital = 2
-recruit_character = 
+recruit_character = FPB_Ivan_Ninic
 
 set_politics = {
     ruling_party = communist
@@ -14,4 +14,11 @@ set_popularities = {
     conservatism = 0
     despotism = 0
     fascism = 0
+}
+add_ideas = {
+	#Country
+	FPB_Revolutionary_inheritance
+	FPB_Comintern_Aid
+	FPB_final_struggle
+    croatia_War_resumes
 }
