@@ -1,0 +1,31 @@
+ideas = {
+	country = {		
+		RCR_economic_depression = {			
+			picture = RCR_economic_depression
+			modifier = {
+				stability_factor = -0.05
+				war_support_factor = -0.10
+				GDP_growth_modifier = -1
+				production_factory_start_efficiency_factor = 0.10
+				production_factory_max_efficiency_factor = 0.075
+			}		
+		}
+		RCR_Stacevics_dream = {			
+			picture = RCR_Stacevics_dream
+			modifier = {
+				stability_factor = 0.10
+				war_support_factor = 0.10
+				production_factory_start_efficiency_factor = 0.05
+				production_factory_max_efficiency_factor = 0.10
+			}		
+		}	
+		RCR_hate_all_over = {			
+			picture = RCR_hate_all_over
+			modifier = {
+				stability_factor = -0.075
+				resistance_damage_to_garrison = 0.20
+				army_morale_factor = -0.20
+			}		
+		}	
+	}
+}

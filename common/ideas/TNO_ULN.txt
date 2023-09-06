@@ -1,0 +1,24 @@
+ideas = {
+	country = {		
+		ULN_pure_horror = {			
+			picture = ULN_pure_horror
+			modifier = {
+				stability_factor = -0.10
+				war_support_factor = -0.20
+			}		
+		}
+		ULN_legacy_of_Pavelic = {			
+			picture = ULN_legacy_of_Pavelic
+			modifier = {
+				army_infantry_attack_factor = 0.05
+				army_infantry_defence_factor = 0.05
+				army_org_factor = 0.05
+			}	
+			targeted_modifier = {
+				tag = FPB
+				attack_bonus_against = 0.05
+				defense_bonus_against = 0.10
+			}	
+		}
+	}
+}

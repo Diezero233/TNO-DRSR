@@ -1,0 +1,38 @@
+ideas = {
+	country = {		
+		FPB_Revolutionary_inheritance = {			
+			picture = FPB_Revolutionary_inheritance
+			modifier = {
+				army_attack_factor = 0.1
+				army_defence_factor = -0.2
+				army_org_factor = 0.10
+				army_morale_factor = 0.125
+			}		
+		}
+		FPB_Comintern_Aid = {			
+			picture = FPB_Comintern_Aid
+			modifier = {
+				monthly_population = 0.05
+				production_factory_start_efficiency_factor = 0.05
+			}		
+		}	
+		FPB_final_struggle = {			
+			picture = FPB_final_struggle
+			modifier = {
+				stability_factor = 0.05
+				war_support_factor = 0.10
+				conscription_factor = 0.01
+			}		
+		}	
+		croatia_War_resumes = {			
+			picture = croatia_War_resumes
+			modifier = {
+				army_speed_factor = -0.25
+				GDP_growth_modifier = -2
+				free_production_units_modifier = 2
+				stability_factor = -0.20
+				war_support_factor = -0.25
+			}		
+		}	
+	}
+}

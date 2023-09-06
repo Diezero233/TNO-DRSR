@@ -1,17 +1,17 @@
 characters = {
-    FPB_ = {
-        name = FPB_
+    FPB_Ivan_Ninic = {
+        name = FPB_Ivan_Ninic
         portraits = {
             civilian = {
-                large = "gfx/leaders/FPB/FPB_.png"
+                large = "gfx/leaders/FPB/FPB_Ivan_Ninic.png"
             }
         }
         country_leader = {
-            ideology = communist_national_communism_subtype_desc
+            desc = "FPB_Ivan_Ninic_desc"
+            ideology = communist_national_communism_subtype
             traits = {
             }
-            id = -1
-            desc = "FPB_ _desc"
+            id = -1           
         }
     }
 }

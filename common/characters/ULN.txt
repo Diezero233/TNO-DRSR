@@ -7,11 +7,11 @@ characters = {
             }
         }
         country_leader = {
-            ideology = ultranationalism_ultramilitarism_subtype
+            desc = "ULN_Slobodan_Praljak_desc"
+            ideology = fascism_ecclesiastic_nationalism_subtype
             traits = {
             }
             id = -1
-            desc = "ULN_Slobodan_Praljak_desc"
         }
     }
 }
