@@ -3,8 +3,10 @@ state={
 	name="STATE_1726"
 
 	history={
-		owner = CRO
-		add_core_of = CRO
+		owner = RCR
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 		victory_points = { 11741 1 }
 		buildings = {
 			hospitals = 1

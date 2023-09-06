@@ -2,7 +2,7 @@ state={
 	id=969
 	name="STATE_969"
 	history={
-		owner = CRO
+		owner = SER
 		victory_points = { 11580 5 }
 		buildings = {
 			infrastructure = 5
@@ -10,7 +10,9 @@ state={
 		}
 
 		add_core_of = SER
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 
 	}
 	provinces={

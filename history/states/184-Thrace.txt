@@ -4,7 +4,7 @@ state={
 	name="STATE_184"
 	manpower = 178751
 	
-	state_category = rural
+	state_category = GRE
 	
 	resources={
 		chromium=12
@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = TUR
+		owner = GRE
 		victory_points = { 6990 1 }
 		victory_points = { 9930 1 }
 		buildings = {

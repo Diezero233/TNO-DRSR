@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = BRG
+		owner = FRS
 		victory_points = { 9642 5 }
 		victory_points = { 11516 10 }
 		victory_points = { 698 2 }
@@ -21,7 +21,7 @@ state={
 			air_base = 5
 		}
 		add_core_of = FRS
-		add_core_of = BRG
+		add_core_of = FRS
 		set_state_flag = universal_renamings
 	}
 

@@ -4,7 +4,7 @@ state={
 	name="STATE_1293"
 
 	history={
-		owner = CRO
+		owner = FPB
 		buildings = {
 			schools = 1
 			infrastructure = 3
@@ -13,7 +13,9 @@ state={
 			}
 		}
 		victory_points = { 591 3 }
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 	}
 
 	provinces={

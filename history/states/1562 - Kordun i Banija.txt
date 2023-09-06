@@ -7,13 +7,15 @@ state={
 	}
 
 	history={
-		owner = CRO
+		owner = ULN
 		buildings = {
 			thermoelectric_plant = 2
 			infrastructure = 2
 
 		}
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 		victory_points = { 3596 1 }
 	}
 

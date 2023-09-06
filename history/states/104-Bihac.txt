@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CRO
+		owner = ULN
 		victory_points = { 6614 5 }
 		buildings = {
 			barracks = 1
@@ -15,7 +15,9 @@ state={
 			radar_station = 1
 			air_base = 3
 		}
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 	}
 
 	provinces={

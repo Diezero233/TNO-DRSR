@@ -7,13 +7,15 @@ state={
 	}
 
 	history={
-		owner = CRO
+		owner = RCR
 		victory_points = { 16178 5 }
 		buildings = {
 			offices = 1
 			infrastructure = 4
 		}
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 	}
 
 	provinces={

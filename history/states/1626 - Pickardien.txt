@@ -21,7 +21,6 @@ state={
 			}
 		}
 		add_core_of = FRS
-		set_demilitarized_zone = yes
 		victory_points = { 9561 1 }
 		victory_points = { 6585 1 }
 		victory_points = { 11549 1 }

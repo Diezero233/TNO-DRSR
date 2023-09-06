@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = CRO
+		owner = ULN
 		buildings = {
 			thermoelectric_plant = 1
 			schools = 1
@@ -20,7 +20,9 @@ state={
 		}
 		victory_points = { 11581 30 }
 		victory_points = { 3592 5 }
-		add_core_of = CRO
+		add_core_of = RCR
+		add_core_of = FPB
+		add_core_of = ULN
 
 	}
 

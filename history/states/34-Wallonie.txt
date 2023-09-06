@@ -4,7 +4,7 @@ state={
 	name="STATE_34"
 
 	history={
-		owner = BRG
+		owner = FRS
 		victory_points = { 3516 5 }
 		victory_points = { 11519 10 }
 		victory_points = { 9536 5 }
@@ -17,7 +17,7 @@ state={
 			infrastructure = 5
 			air_base = 1
 		}
-		add_core_of = BRG
+		add_core_of = FRS
 		set_state_flag = universal_renamings
 	}
 
